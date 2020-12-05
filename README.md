@@ -2,7 +2,7 @@
 Prediction of enhancer-promoter interactions using the cross-cell information and domain adversarial neural network
 
 ## Prerequisites: 
-(1) numpy; (2) keras; (3) tensorflow
+(1) numpy; (2) keras=1.1.0; (3) tensorflow
 
 ## Usage:
 ### 1）Convert .fa (datatype) data to .npy (datatype) data
