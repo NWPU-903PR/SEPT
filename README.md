@@ -18,4 +18,4 @@ If you have any questions, please do not hesitate to contact us.
 
 Shao-Wu Zhang, zhangsw@nwpu.edu.cn
 
-Fang Jing, jingfang@mail.nwpu.eud.cn
+Fang Jing, jingfang@mail.nwpu.edu.cn
